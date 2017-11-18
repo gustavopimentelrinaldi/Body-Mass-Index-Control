@@ -1,0 +1,24 @@
+.campo-invalido{
+	border: 1px solid red;
+}
+
+#mensagens-erro {
+	color: red;
+}
+
+.fadeOut {
+	opacity: 0;
+	transition: 0.5s;
+}
+
+#filtrar-tabela{
+	margin: 10px;
+}
+
+.invisivel{
+	display: none;
+}
+
+.margem{
+	margin: 2em 0;
+}
