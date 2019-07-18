@@ -3,10 +3,10 @@
 Projeto prático com fins de aprendizado...(JavaScript)
 Controle de Índice de Massa Corporal por paciente... (Cálculo)(Injeção de pacientes na tabela)
 ```
-# Quer melhorar?
+# Want to improve?
 ```
-Clone esse repositório!
+Clone this repository
 ```
 ```
-Crie sua feature e dê um pull request pra master :)
+create your feature and pull request to master branch :)
 ```
