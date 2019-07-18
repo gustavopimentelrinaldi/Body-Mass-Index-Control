@@ -1,7 +1,7 @@
-# Finalidade
+# Finality
 ```
-Projeto prático com fins de aprendizado...(JavaScript)
-Controle de Índice de Massa Corporal por paciente... (Cálculo)(Injeção de pacientes na tabela)
+Practical project for learning purposes.
+Body mass index control. (table insert)
 ```
 # Want to improve?
 ```
